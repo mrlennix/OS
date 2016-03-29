@@ -1,8 +1,8 @@
 /*
- * Name: 
- * ID #: 
+ * Name: Emmanuel Lennix
+ * ID #: 1001104990
  * Programming Assignment 2
- * Description:
+ * Description: Shakespeare Word Search
  */
 
 #include<stdio.h>
